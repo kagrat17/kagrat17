@@ -1,5 +1,5 @@
 ### Hello!
-So this is my README file I guess.
+README pending.
 
 <!---
 kagrat17/kagrat17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
